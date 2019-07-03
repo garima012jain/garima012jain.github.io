@@ -9,9 +9,8 @@ My name is Garima Jain. I am doing my Btech in Computer Science and Engineering 
 
 
 >I  enjoy:
-
 * Competitive Programming
-* Learning and exploring new things.
+* Learning and exploring new things.  
 
 
 >I am mostly active on the following Competitive Prgramming sites:
