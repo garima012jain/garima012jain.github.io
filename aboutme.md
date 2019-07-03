@@ -13,7 +13,7 @@ My name is Garima Jain. I am doing my Btech in Computer Science and Engineering 
 * Competitive Programming
 * Learning and exploring new things.
 
->I am mostly active on the follwing Competitive Prgramming sites:
+>I am mostly active on the following Competitive Prgramming sites:
 * [Codechef](https://www.codechef.com/users/gauri_18)
 * [Codeforces](https://codeforces.com/profile/Gauri_Jain)
 * [Uva Online Judge](https://uhunt.onlinejudge.org/id/1024108)
