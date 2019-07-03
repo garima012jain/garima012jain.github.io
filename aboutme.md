@@ -21,6 +21,11 @@ I  enjoy:
 * [Hackerrank](https://www.hackerrank.com/garimaj012)
 
 
+>Apart from coding, I am good at:
+* Singing
+* Playing Keyboard
+
+
 
 
 
