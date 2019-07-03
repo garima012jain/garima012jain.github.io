@@ -8,7 +8,7 @@ Hello friends!!!
 My name is Garima Jain. I am doing my Btech in Computer Science and Engineering from IIT Patna (Currently in my sophomore year).
 
 
->I  enjoy:
+I  enjoy:
 * Competitive Programming
 * Learning and exploring new things.  
 
