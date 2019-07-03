@@ -1,16 +1,28 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: A Coding geek cum an Ecofreak
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello friends!!! 
+My name is Garima Jain. I am doing my Btech in Computer Science and Engineering from IIT Patna (Currently in my sophomore year).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+>I  enjoy:
 
-### my history
+* Competitive Programming
+* Learning and exploring new things.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+>I am mostly active on the follwing Competitive Prgramming sites:
+* [Codechef](https://www.codechef.com/users/gauri_18)
+* [Codeforces](https://codeforces.com/profile/Gauri_Jain)
+* [Uva Online Judge](https://uhunt.onlinejudge.org/id/1024108)
+* [Hackerearth](https://www.hackerearth.com/@garima316) 
+* [Hackerrank](https://www.hackerrank.com/garimaj012)
+
+
+
+
+
+
+
