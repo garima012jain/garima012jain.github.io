@@ -1,5 +1,6 @@
 # --- General options --- #
-
+url: "https://catchharsh.github.io"
+baseurl: ""
 # Name of website
 title: Garima's Blog
 
@@ -17,6 +18,7 @@ description: This website is made by me for myself which keeps a record of how m
 #baseurl: ""
 
 # --- Navigation bar options --- #
+
 
 # List of links in the navigation bar
 navbar-links:
