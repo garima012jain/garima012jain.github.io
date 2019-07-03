@@ -4,7 +4,7 @@ title: About me
 subtitle: A Coding geek cum an Ecofreak
 ---
 
-Hello friends!!! 
+Hello friends!!!   
 My name is Garima Jain. I am doing my Btech in Computer Science and Engineering from IIT Patna (Currently in my sophomore year).
 
 
@@ -12,6 +12,7 @@ My name is Garima Jain. I am doing my Btech in Computer Science and Engineering 
 
 * Competitive Programming
 * Learning and exploring new things.
+
 
 >I am mostly active on the following Competitive Prgramming sites:
 * [Codechef](https://www.codechef.com/users/gauri_18)
