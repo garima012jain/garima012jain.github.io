@@ -2,7 +2,7 @@
 # url: "https://garima012jain.github.io"
 # baseurl: ""
 # Name of website
-title: "Garima's Blog"
+title: "My Posts"
 
 # Short description of your site
 description: This website is made by me for myself which keeps a record of how much I did each day
@@ -22,8 +22,8 @@ description: This website is made by me for myself which keeps a record of how m
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Blog: "blog"
+  About Me: "about me"
+  My Blog: "my blog"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
