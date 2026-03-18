@@ -16,35 +16,40 @@ function Home2() {
               A BIT <span className="purple"> ABOUT </span> ME
             </h1>
             <p className="home-about-body">
-              Hey there! I'm <b className="purple">Garima</b>, a software
-              engineer who genuinely loves building things from scratch and
-              watching them scale.
+              I am currently working as a{" "}
+              <b className="purple">Founding Engineer at Anyteam</b>.
               <br />
               <br />
-              Right now, I'm a{" "}
-              <b className="purple">Founding Engineer at Anyteam</b>, where I'm
-              knee-deep in LLM cost attribution, WebSocket architectures, and
-              wiring up AI-powered dev environments with Claude Code, custom MCP
-              servers, and Docker Compose across an 8-repo platform. Before
-              that, I spent 2.5 years at{" "}
-              <b className="purple">Venwiz Technologies</b> building
-              everything from AI-powered search engines to high-throughput web
-              scraping infra. And before that, I was at{" "}
-              <b className="purple">Google Pay</b>, shipping UPI Autopay
-              compliance features and subscription flows in Java and gRPC.
+              I love building scalable systems and exploring new tech across the
+              stack {"\u{1F93A}"}
+              <br />
+              <br />I am fluent in languages like
+              <i>
+                <b className="purple">
+                  {" "}
+                  C++, Python, Java, TypeScript, and JavaScript.{" "}
+                </b>
+              </i>
               <br />
               <br />
-              My go-to languages are{" "}
-              <b className="purple">
-                Python, C++, Java, TypeScript, and JavaScript
-              </b>
-              , and I'm always exploring new tools and frameworks across the
-              stack.
+              My past work experience: &nbsp;
+              <li>
+                <b className="purple">Software Engineer </b> at Venwiz
+                Technologies
+              </li>
+              <li>
+                <b className="purple">Software Engineer II </b> at Google India
+                (Google Pay)
+              </li>
+              <li>
+                <b className="purple">SWE Intern </b> at Google Pay & Google Ads
+              </li>
+              <li>
+                <b className="purple">Teaching Assistant </b> at Scaler Academy
+              </li>
               <br />
-              <br />
-              When I'm not coding, you'll probably find me trekking up a
-              mountain, dancing to good music, or planning my next travel
-              adventure!
+              When I'm not coding, you'll find me trekking, dancing, or planning
+              my next travel adventure {"\u{1F4BB}"}
             </p>
           </Col>
           <Col md={4} className="myAvtar">

@@ -97,6 +97,7 @@ function NavBar() {
                 <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
               </Nav.Link>
             </Nav.Item>
+            {/* Blog link - hidden until content is ready
             <Nav.Item>
               <Nav.Link
                 as={Link}
@@ -106,6 +107,7 @@ function NavBar() {
                 <BsPencilSquare style={{ marginBottom: "2px" }} /> Blog
               </Nav.Link>
             </Nav.Item>
+            */}
             <Nav.Item className="fork-btn">
               <Button
                 href="https://github.com/garima012jain/garima012jain.github.io"

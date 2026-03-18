@@ -230,7 +230,7 @@ button:focus {
 
 .home-section {
   position: relative;
-  background-image: var(--image-gradient);
+  z-index: -1;
   background-color: transparent;
   background-position: top center;
   background-repeat: no-repeat;
@@ -296,7 +296,6 @@ button:focus {
   position: relative;
   padding-bottom: 70px !important;
   padding-top: 70px !important;
-  background-image: var(--section-background-color) !important;
 }
 
 .home-about-description {
@@ -422,7 +421,7 @@ button:focus {
   position: relative !important;
   padding-top: 150px !important;
   padding-bottom: 30px !important;
-  background-image: var(--section-background-color) !important;
+  background-color: transparent !important;
 }
 
 .project-card {
@@ -483,7 +482,7 @@ button:focus {
   position: relative !important;
   padding-top: 150px !important;
   padding-bottom: 30px !important;
-  background-image: var(--section-background-color) !important;
+  background-color: transparent !important;
   color: white !important;
 }
 
@@ -542,7 +541,7 @@ button:focus {
   position: relative !important;
   padding-top: 110px !important;
   padding-bottom: 30px !important;
-  background-image: var(--section-background-color) !important;
+  background-color: transparent !important;
   color: white !important;
 }
 
@@ -601,7 +600,7 @@ button:focus {
   position: relative !important;
   padding-top: 110px !important;
   padding-bottom: 30px !important;
-  background-image: var(--section-background-color) !important;
+  background-color: transparent !important;
   color: white !important;
 }
 
@@ -714,7 +713,7 @@ button:focus {
   position: relative !important;
   padding-top: 150px !important;
   padding-bottom: 80px !important;
-  background-image: var(--section-background-color) !important;
+  background-color: transparent !important;
   color: white !important;
 }
 

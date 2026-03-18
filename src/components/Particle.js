@@ -14,28 +14,34 @@ function Particle() {
       options={{
         particles: {
           number: {
-            value: 160,
+            value: 200,
             density: {
               enable: true,
-              value_area: 1500,
+              area: 1200,
             },
+          },
+          color: {
+            value: "#ffffff",
           },
           links: {
             enable: false,
             opacity: 0.03,
           },
           move: {
+            enable: true,
             direction: "right",
             speed: 0.05,
           },
           size: {
-            value: 1,
+            value: { min: 0.5, max: 1.5 },
           },
           opacity: {
+            value: 1,
             animation: {
               enable: true,
-              speed: 1,
-              minimumValue: 0.05,
+              speed: 0.3,
+              minimumValue: 0.85,
+              sync: false,
             },
           },
         },
