@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.d9120a85.css",
-    "main.js": "/static/js/main.15dfdbe1.js",
+    "main.css": "/static/css/main.02e63310.css",
+    "main.js": "/static/js/main.7d023354.js",
+    "static/js/641.61811576.chunk.js": "/static/js/641.61811576.chunk.js",
     "static/js/453.635f5f07.chunk.js": "/static/js/453.635f5f07.chunk.js",
     "static/media/pdf.worker.min.mjs": "/static/media/pdf.worker.min.27309c4782370d091a19.mjs",
     "static/media/Garima_Resume.pdf": "/static/media/Garima_Resume.2644d3dd0648aa7b90ad.pdf",
-    "static/media/home-main.svg": "/static/media/home-main.ef54dda99bf20ecb5a21d1e38dc7df30.svg",
+    "static/media/garima-photo.jpeg": "/static/media/garima-photo.f1e8545561958965bf53.jpeg",
+    "static/media/home-main.svg": "/static/media/home-main.401aa1067cc5f51a492a085254a5b3b1.svg",
     "static/media/about.svg": "/static/media/about.d450e9c8f412ac28803e1788492bc0d0.svg",
     "index.html": "/index.html",
-    "static/media/avatar.svg": "/static/media/avatar.50d2dfc989157176874eebebfa01471b.svg",
     "static/media/pre.svg": "/static/media/pre.80b2da908d95f03a2311.svg",
-    "static/media/logo.svg": "/static/media/logo.02c2c07a15f92a177f964797cfc6a49c.svg",
-    "main.d9120a85.css.map": "/static/css/main.d9120a85.css.map",
-    "main.15dfdbe1.js.map": "/static/js/main.15dfdbe1.js.map",
+    "static/media/logo.svg": "/static/media/logo.fd96390098408f994824ea14ad518139.svg",
+    "main.02e63310.css.map": "/static/css/main.02e63310.css.map",
+    "main.7d023354.js.map": "/static/js/main.7d023354.js.map",
+    "641.61811576.chunk.js.map": "/static/js/641.61811576.chunk.js.map",
     "453.635f5f07.chunk.js.map": "/static/js/453.635f5f07.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9120a85.css",
-    "static/js/main.15dfdbe1.js"
+    "static/css/main.02e63310.css",
+    "static/js/main.7d023354.js"
   ]
 }
