@@ -96,6 +96,50 @@ function Projects() {
             />
           </Col>
         </Row>
+
+        <h1 className="project-heading" style={{ paddingTop: "40px" }}>
+          Personal <strong className="purple">GitHub Projects</strong>
+        </h1>
+        <p style={{ color: "white" }}>
+          Some side projects I've built and open-sourced:
+        </p>
+        <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              title="Electric Vehicle Charge Scheduling"
+              description="Optimized EV charging schedules using computational methods to minimize cost and grid impact. Built with Python and Jupyter notebooks for simulation and analysis."
+              techStack="Python, Jupyter Notebook"
+              ghLink="https://github.com/garima012jain/Electric-Vehicle-Charge-Scheduling"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              title="Firebase Authentication System"
+              description="A complete authentication system built with Vue.js and Firebase, featuring email/password login, Google sign-in, and protected routes with session management."
+              techStack="Vue.js, Firebase, JavaScript"
+              ghLink="https://github.com/garima012jain/firebase-authentication"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              title="PowerCurve"
+              description="A Vue.js web application for visualizing and analyzing power curves. Features interactive charts and data-driven insights with a clean, responsive UI."
+              techStack="Vue.js, JavaScript, CSS"
+              ghLink="https://github.com/garima012jain/PowerCurve"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              title="Todo List App"
+              description="A clean and functional todo list application built with Vue.js, featuring task creation, completion tracking, filtering, and persistent local storage."
+              techStack="Vue.js, JavaScript, CSS"
+              ghLink="https://github.com/garima012jain/todo-list"
+            />
+          </Col>
+        </Row>
       </Container>
     </Container>
   );

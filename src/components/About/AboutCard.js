@@ -52,6 +52,16 @@ function AboutCard() {
             <span className="purple">Google's STEP internship</span>.
             <br />
             <br />
+            Beyond my industry roles, I served as a{" "}
+            <span className="purple">Teaching Assistant at Scaler Academy</span>{" "}
+            (Jan 2022 – Jun 2023), mentoring 200+ students in DSA and problem
+            solving. I also led campus placements as{" "}
+            <span className="purple">
+              Asst. Head Coordinator of the Training & Placement Cell
+            </span>{" "}
+            at IIT Patna (Jul 2020 – Apr 2022).
+            <br />
+            <br />
             Apart from coding, some other activities that I love!
           </p>
           <ul>
@@ -64,7 +74,19 @@ function AboutCard() {
             <li className="about-activity">
               <ImPointRight /> Mentoring & Teaching
             </li>
+            <li className="about-activity">
+              <ImPointRight /> Travelling
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> Music & Dancing
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> Trekking
+            </li>
           </ul>
+          <p style={{ color: "#a588c0", marginTop: "15px", fontStyle: "italic" }}>
+            "The only way to do great work is to love what you do." – Steve Jobs
+          </p>
         </blockquote>
       </Card.Body>
     </Card>
