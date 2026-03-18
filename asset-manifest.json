@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e2f1265a.css",
-    "main.js": "/static/js/main.fdfecbcb.js",
+    "main.css": "/static/css/main.d9120a85.css",
+    "main.js": "/static/js/main.15dfdbe1.js",
     "static/js/453.635f5f07.chunk.js": "/static/js/453.635f5f07.chunk.js",
     "static/media/pdf.worker.min.mjs": "/static/media/pdf.worker.min.27309c4782370d091a19.mjs",
     "static/media/Garima_Resume.pdf": "/static/media/Garima_Resume.2644d3dd0648aa7b90ad.pdf",
@@ -11,12 +11,12 @@
     "static/media/avatar.svg": "/static/media/avatar.50d2dfc989157176874eebebfa01471b.svg",
     "static/media/pre.svg": "/static/media/pre.80b2da908d95f03a2311.svg",
     "static/media/logo.svg": "/static/media/logo.02c2c07a15f92a177f964797cfc6a49c.svg",
-    "main.e2f1265a.css.map": "/static/css/main.e2f1265a.css.map",
-    "main.fdfecbcb.js.map": "/static/js/main.fdfecbcb.js.map",
+    "main.d9120a85.css.map": "/static/css/main.d9120a85.css.map",
+    "main.15dfdbe1.js.map": "/static/js/main.15dfdbe1.js.map",
     "453.635f5f07.chunk.js.map": "/static/js/453.635f5f07.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2f1265a.css",
-    "static/js/main.fdfecbcb.js"
+    "static/css/main.d9120a85.css",
+    "static/js/main.15dfdbe1.js"
   ]
 }
